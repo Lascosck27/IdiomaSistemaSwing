@@ -38,7 +38,7 @@ public class LangDisplay extends javax.swing.JFrame {
 
         jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/idiomas.png"))); // NOI18N
 
-        jLabel2.setFont(new java.awt.Font("Segoe UI", 0, 24)); // NOI18N
+        jLabel2.setFont(new java.awt.Font("Unispace", 0, 18)); // NOI18N
         jLabel2.setText("Idioma do sistema:");
 
         lblIdioma.setFont(new java.awt.Font("Segoe UI", 0, 36)); // NOI18N
